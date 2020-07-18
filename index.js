@@ -22,6 +22,6 @@ function sayHiToGrandma(string){
     return `YES INDEED!`
   }
   if (string.toEqual(`I love you, Grandma`)){
-    return `I love you, too`
+    return `I love you, too.`
   }
 }
